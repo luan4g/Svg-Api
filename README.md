@@ -24,7 +24,7 @@ Esta api foi criada para que possa facilitar o uso de ícones em formato .svg. P
 </a>
 
 <a href="https://www.linkedin.com/in/luan-ferreira-0a1364192/">
-  <img src="https:/img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/linkedin-%230077B5?&style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="https://twitter.com/useless_luh">
